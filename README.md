@@ -1,7 +1,7 @@
 # Restauant-Sale-Analysis---SQL-project_1
 Restaurant sale analysis
 
--- * " ANALYZE MENU TABEL" *-----------------
+-- # " ANALYZE MENU TABEL" #-----------------
 
 
 
