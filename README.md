@@ -26,6 +26,7 @@ Restaurant sale analysis
  18. View the details of the top 5 hight spend orders. what insights can you gathere from the Result?
      
 
+![image](https://github.com/Dillipmeher/Restauant-Sale-Analysis---SQL-project_1/assets/143451788/c26a7f67-023d-4c3a-bc17-490a7791772a)
 
   
 
