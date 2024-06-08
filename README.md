@@ -1,7 +1,7 @@
 # Restauant-Sale-Analysis---SQL-project_1
 Restaurant sale analysis
 
- # ANALYZE MENU TABEL #
+ # ANALYZE MENU TABLE #
  1. View the Menu item table.
  2. 2.Find the No of items on the Menu
  3. what are the least and most expensive item on the menu?
